@@ -13,7 +13,7 @@ h1 {
   color: white;
 }
 .header{
-  background-image: url(C:\Projects\Broadway\resources\imagesthe-flatiron-building.png);
+  background-image: url(/c/Projects/Broadway/resources/images/the-flatiron-building.png);
 }
 h2.mid{
   font-family: Helvetica;
@@ -30,7 +30,7 @@ p{
   font-size: 14px;
 }
 .transition {
-    background-image: url(C:\Projects\Broadway\resources\imagesthe-flatiron-building.png);
+    background-image: url(/c/Projects/Broadway/resources/images/the-flatiron-building.png);
     font-family: Helvetica;
     font-size: 23px;
     font-weight: bold;
@@ -41,8 +41,8 @@ footer {
   font-family: Helvetica;
   color: white;
   background-color: dimgray;
+  text-align: left;
 }
 span {
-  text-align: left;
   font-size: 18px;
 }
