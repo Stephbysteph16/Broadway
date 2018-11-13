@@ -13,7 +13,7 @@ h1 {
   color: white;
 }
 .header{
-  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 h2.mid{
   font-family: Helvetica;
@@ -30,7 +30,7 @@ p{
   font-size: 14px;
 }
 .transition {
-    background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+    background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
     font-family: Helvetica;
     font-size: 23px;
     font-weight: bold;
